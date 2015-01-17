@@ -1,0 +1,30 @@
+.title {
+    padding:20px;
+	padding-left:10px;
+	border-bottom:1px solid #c0c0c0;
+	margin-bottom: 20px;
+}
+
+.navbar-default {
+    margin-top: 20px; 
+	background: #373C73;
+	border:0;
+}
+
+.thumbnail { 
+	padding-top:20px;
+}
+.thumbnail img { 
+	width: 300px;
+	background: #373C73;
+	padding:20px;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* bootstrap */
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus { color: white;}
+.navbar-default .navbar-nav>li>a { color: #A7AEF5;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus { background: #AFB4ED; }
